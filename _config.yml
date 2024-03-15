@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Vinay's blog
+name: Vinay
 
 # Name of the author
 author: Vinay Kesari
@@ -29,7 +29,7 @@ footer-links:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: @vinaykesari
+  twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
